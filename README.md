@@ -45,7 +45,7 @@ Users should be able to:
 
 ### What I learned
 
-- I learned hoy to use React router,Links,Routes,Rout
+- I learned how to use React router,Links,Routes,Rout
 
 ### Continued development
 
